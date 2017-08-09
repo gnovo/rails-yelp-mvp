@@ -13,31 +13,31 @@ restaurants_attributes = [
   {
     name:         "Epicure au Bristol",
     address:      "112 rue du Fg St-Honoré 75008 Paris",
-    phone_number: "05 56 10 20 30"
+    phone_number: "05 56 10 20 30",
     category: "chinese"
   },
   {
     name:         "La truffière",
     address:      "4 rue Blainville 75005 Paris",
-    phone_number: "05 82 41 64 12"
+    phone_number: "05 82 41 64 12",
     category: "italian"
   },
   {
     name:         "Le pré catelan",
     address:      "route de Suresnes 75016 Paris",
-    phone_number: "05 41 64 76 48"
+    phone_number: "05 41 64 76 48",
     category: "japanese"
   },
   {
     name:         "L'Étoile'",
     address:      "71 rue de la République 69001 Lyon",
-    phone_number: "04 52 47 31 03"
+    phone_number: "04 52 47 31 03",
     category: "french"
   },
   {
-    name:         "Le pré catelan",
+    name:         "La validation",
     address:      "98 rue des Chaligny 06100 Nice",
-    phone_number: "04 60 50 69 52"
+    phone_number: "04 60 50 69 52",
     category: "belgian"
   }
 ]
