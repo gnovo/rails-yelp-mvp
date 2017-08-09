@@ -27,6 +27,18 @@ restaurants_attributes = [
     address:      "route de Suresnes 75016 Paris",
     phone_number: "05 41 64 76 48"
     category: "japanese"
+  },
+  {
+    name:         "L'Étoile'",
+    address:      "71 rue de la République 69001 Lyon",
+    phone_number: "04 52 47 31 03"
+    category: "french"
+  },
+  {
+    name:         "Le pré catelan",
+    address:      "98 rue des Chaligny 06100 Nice",
+    phone_number: "04 60 50 69 52"
+    category: "belgian"
   }
 ]
 Restaurant.create!(restaurants_attributes)

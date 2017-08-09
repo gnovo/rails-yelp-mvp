@@ -12,5 +12,8 @@
 
   <body>
     <%= yield %>
+    <%= link_to "Home", restaurants_path, class: "btn btn-primary"%>
+    <%= link_to "Add", new_restaurant_path, class: "btn btn-primary"%>
+    
   </body>
 </html>
